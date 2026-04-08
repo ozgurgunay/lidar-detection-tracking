@@ -25,3 +25,14 @@ outputs/**
 !outputs/noise_stats.csv
 !outputs/range_stats.csv
 !outputs/density_by_part.csv
+!outputs/plots/
+!outputs/plots/3d_frame_1849.png
+!outputs/plots/3d_frame_1851.png
+!outputs/plots/3d_frame_1853.png
+!outputs/plots/3d_frame_1855.png
+!outputs/plots/3d_frame_1857.png
+!outputs/plots/3d_frame_1859.png
+!outputs/plots/3d_frame_1861.png
+!outputs/plots/3d_frame_1863.png
+!outputs/plots/3d_frame_1865.png
+!outputs/plots/3d_frame_1867.png
