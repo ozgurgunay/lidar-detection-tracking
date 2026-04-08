@@ -1,0 +1,27 @@
+# Local data (do not upload)
+data/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE/editor local files
+.idea/
+.vscode/
+.cursor/
+
+# Python cache/build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Outputs: ignore all, then allow selected CSV artifacts
+outputs/**
+!outputs/data_summary.csv
+!outputs/frame_timing.csv
+!outputs/noise_stats.csv
+!outputs/range_stats.csv
+!outputs/density_by_part.csv
