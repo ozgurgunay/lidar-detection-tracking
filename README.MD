@@ -95,6 +95,4 @@ Tracked output examples:
 - `outputs/density_by_part.csv`
 
 ## Notes
-
-- The repository is prepared for private sharing on GitHub.
-- No tool-specific workspace metadata is included in the project content.
+Blackfield cube 1 data sheet used.
